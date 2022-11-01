@@ -44,10 +44,9 @@ For example: Delete the testing section if the currect project doesn't require t
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Project name] <a name="about-project"></a>
+# 📖 [Project name] <a name="EmailAgeChecker"></a>
 
-> Describe your project in 1 or 2 sentences.
-
+> Ruby CLI app to check the user (email) age
 **[High level description]**
 
 ## 🛠 Built With <a name="built-with"></a>
